@@ -1,5 +1,7 @@
 # minimq
 
+github.com/tangzhangming/minimq
+
 一个精简实现的消息队列
 
 
